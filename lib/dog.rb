@@ -8,6 +8,6 @@ class Dog
   end
 end
 
-Dog.new('fido')
-Dog.new('snoopy')
-Dog.new('lassie')
+fido = Dog.new('Fido')
+snoppy = Dog.new('Snoopy')
+lassie = Dog.new('Lassie')
