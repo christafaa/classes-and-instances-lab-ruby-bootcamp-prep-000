@@ -4,5 +4,7 @@ def Person
     @age = age
   end
 
-  def
+  def how_old?
+    puts "#{@name} is #{@age} years old!"
+  end
 end
