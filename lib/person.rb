@@ -3,4 +3,6 @@ def Person
     @name = name
     @age = age
   end
+
+  def
 end
