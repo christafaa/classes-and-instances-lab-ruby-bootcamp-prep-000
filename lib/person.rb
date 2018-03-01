@@ -9,5 +9,5 @@ class Person
   end
 end
 
-Person.new("adele_goldberg", 72)
-Person.new('alan_kay', 77)
+adele_goldberg = Person.new("Adele Goldberg", 72)
+alan_kay = Person.new('Alan Kay', 77)
