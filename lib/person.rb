@@ -10,4 +10,4 @@ class Person
 end
 
 Person.new("adele_goldberg", 72)
-Person.new('alan_kay')
+Person.new('alan_kay', 77)
