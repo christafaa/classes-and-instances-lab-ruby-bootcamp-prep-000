@@ -1,5 +1,5 @@
 class Dog
-  def initialize
+  def initialize(name)
     @name = name
   end
 
@@ -7,3 +7,7 @@ class Dog
     puts "#{@name} barks!"
   end
 end
+
+Dog.new('Rover')
+Dog.new('Charles')
+Dog.new('Mom')
