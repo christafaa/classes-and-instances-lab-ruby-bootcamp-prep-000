@@ -8,3 +8,6 @@ def Person
     puts "#{@name} is #{@age} years old!"
   end
 end
+
+Person.new("adele_goldberg")
+Person.new('alan_kay')
